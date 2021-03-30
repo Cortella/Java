@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
-
+/tp_2/nbproject
+/tp_2/manifest.mf
+/tp_2/build.xml
+/tp_vetores/nbproject
+/tp_vetores/test
+/tp_vetores/build.xml
+/tp_vetores/manifest.mf
 # Log file
 *.log
 
