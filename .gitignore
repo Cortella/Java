@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+/tp_2/test
 /tp_2/nbproject
 /tp_2/manifest.mf
 /tp_2/build.xml
@@ -27,3 +28,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/tp_2/build/
+/tp_2/dist/
